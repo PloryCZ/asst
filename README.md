@@ -5,7 +5,7 @@ I might add some updates over time. Or not...
 ## Command examples
 asst --resolve --prot --info --alpn github.com
 
-asst --ripe google.com
+asst --ripe torproject.com
 
-asst --all one.one.one.one
+asst --all wix.com
 
